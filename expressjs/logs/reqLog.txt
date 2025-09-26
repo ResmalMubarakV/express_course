@@ -1,0 +1,2 @@
+20250926	16:36:47	ae764652-b984-4fc6-bb5a-a834880fc0cc	GET 	undefined 	 /
+20250926	16:36:47	202a8b52-9578-48dc-ae9b-927441d3e30c	GET 	undefined 	 /css/style.css
